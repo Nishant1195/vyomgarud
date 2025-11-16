@@ -20,6 +20,11 @@ This assessment project demonstrates proficiency in:
 - Component-based architecture
 - Professional web design practices
 
+### 🌐 Live Deployment
+**[View the live website](https://vyomgarud-by-nishant.vercel.app/)**
+
+The website is deployed on Vercel and accessible at: `https://vyomgarud-by-nishant.vercel.app/`
+
 ---
 
 ## ✨ Key Features
